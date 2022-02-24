@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifydatastorelabs-prod-220145-authRole",
+      "UnauthRoleArn": "arn:aws:iam::551940894492:role/amplify-amplifydatastorelabs-prod-220145-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::551940894492:role/amplify-amplifydatastorelabs-prod-220145-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-amplifydatastorelabs-prod-220145-deployment",
+      "UnauthRoleName": "amplify-amplifydatastorelabs-prod-220145-unauthRole",
+      "StackName": "amplify-amplifydatastorelabs-prod-220145",
+      "StackId": "arn:aws:cloudformation:sa-east-1:551940894492:stack/amplify-amplifydatastorelabs-prod-220145/592f7a80-950d-11ec-bf9b-0a7950a43b76",
+      "AmplifyAppId": "d1zwqim9vrh4r8"
+    }
+  }
+}
