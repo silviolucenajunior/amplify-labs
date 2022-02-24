@@ -10,6 +10,14 @@
       "StackName": "amplify-amplifydatastorelabs-prod-220145",
       "StackId": "arn:aws:cloudformation:sa-east-1:551940894492:stack/amplify-amplifydatastorelabs-prod-220145/592f7a80-950d-11ec-bf9b-0a7950a43b76",
       "AmplifyAppId": "d1zwqim9vrh4r8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1zwqim9vrh4r8",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
